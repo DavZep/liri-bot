@@ -1,0 +1,124 @@
+Fight Club[object Object][object Object]
+Movie Result Info:
+===================
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+
+                    * IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+
+                    * Country Produced: United States, Germany
+* Language: English
+
+                    * Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+===================
+Movie Result Info:
+===================
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+===================
+===================
+Movie Result Info:
+* Title: Titanic
+* Year Released: 19 Dec 1997
+* IMDB Rating: 7.9
+* Rotten Tomatoes Score: 87% Fresh
+* Country Produced: United States, Mexico
+* Language: English, Swedish, Italian, French
+* Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane
+* Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+===================
+===================
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+===================
+Movie Result Info:
+* Title: Scarface
+* Year Released: 09 Dec 1983
+* IMDB Rating: 8.3
+* Rotten Tomatoes Score: 81% Fresh
+* Country Produced: United States
+* Language: English, Spanish
+* Actors: Al Pacino, Michelle Pfeiffer, Steven Bauer
+* Plot: In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+
+===================
+Movie Result Info:
+* Title: Top Gun
+* Year Released: 16 May 1986
+* IMDB Rating: 6.9
+* Rotten Tomatoes Score: 58% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Tom Cruise, Tim Robbins, Kelly McGillis
+* Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+===================
+Movie Result Info:
+* Title: Star Wars
+* Year Released: 25 May 1977
+* IMDB Rating: 8.6
+* Rotten Tomatoes Score: 93% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Mark Hamill, Harrison Ford, Carrie Fisher
+* Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...
+
+===================
+Movie Result Info:
+* Title: The Batman
+* Year Released: 04 Mar 2022
+* IMDB Rating: 8.0
+* Rotten Tomatoes Score: 85% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Robert Pattinson, Zoë Kravitz, Jeffrey Wright
+* Plot: When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.
+
+===================
+Movie Result Info:
+* Title: The Shawshank Redemption
+* Year Released: 14 Oct 1994
+* IMDB Rating: 9.3
+* Rotten Tomatoes Score: 91% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Tim Robbins, Morgan Freeman, Bob Gunton
+* Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+
+===================
+Movie Result Info:
+* Title: The Godfather
+* Year Released: 24 Mar 1972
+* IMDB Rating: 9.2
+* Rotten Tomatoes Score: 97% Fresh
+* Country Produced: United States
+* Language: English, Italian, Latin
+* Actors: Marlon Brando, Al Pacino, James Caan
+* Plot: The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.
+
+===================
+Movie Result Info:
+* Title: Gladiator
+* Year Released: 05 May 2000
+* IMDB Rating: 8.5
+* Rotten Tomatoes Score: 78% Fresh
+* Country Produced: United States, United Kingdom, Malta, Morocco
+* Language: English
+* Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen
+* Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
