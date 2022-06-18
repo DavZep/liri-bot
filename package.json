@@ -19,9 +19,12 @@
   "homepage": "https://github.com/DavZep/liri-bot#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "chalk": "^5.0.1",
     "dotenv": "^16.0.1",
+    "figlet": "^1.5.2",
     "inquirer": "^8.2.4",
+    "js-fire": "^0.7.5",
     "node-spotify-api": "^1.1.1",
-    "twitter": "^1.7.1"
+    "twit": "^2.2.11"
   }
 }

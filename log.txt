@@ -90,35 +90,1178 @@ Movie Result Info:
 * Actors: Robert Pattinson, Zoë Kravitz, Jeffrey Wright
 * Plot: When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.
 
+=============
+never gonna give you up
+=============
+baby got back
+=============
+some song goes here
+=============
+Tweets! tweeet tweeettw eeet!
+=============
+2 Tweets! tweeet tweeettw eeet!
+=============
+my way
 ===================
 Movie Result Info:
-* Title: The Shawshank Redemption
-* Year Released: 14 Oct 1994
-* IMDB Rating: 9.3
+* Title: Scarface
+* Year Released: 09 Dec 1983
+* IMDB Rating: 8.3
+* Rotten Tomatoes Score: 81% Fresh
+* Country Produced: United States
+* Language: English, Spanish
+* Actors: Al Pacino, Michelle Pfeiffer, Steven Bauer
+* Plot: In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+
+=============
+2 Tweets! tweeet tweeettw eeet!
+=============
+2 Tweets! tweeet tweeettw eeet!
+===================
+Movie Result Info:
+* Title: Free Willy
+* Year Released: 16 Jul 1993
+* IMDB Rating: 6.0
+* Rotten Tomatoes Score: 71% Fresh
+* Country Produced: United States, Mexico
+* Language: English
+* Actors: Jason James Richter, Lori Petty, Michael Madsen
+* Plot: When a boy learns that a beloved killer whale is to be killed by the aquarium owners, the boy risks everything to free the whale.
+
+=============
+never gonna give you up
+=============
+2 Tweets! tweeet tweeettw eeet!
+===================
+Movie Result Info:
+* Title: Inception
+* Year Released: 16 Jul 2010
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 87% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, Japanese, French
+* Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page
+* Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+
+===================
+Movie Result Info:
+* Title: Top Gun
+* Year Released: 16 May 1986
+* IMDB Rating: 6.9
+* Rotten Tomatoes Score: 58% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Tom Cruise, Tim Robbins, Kelly McGillis
+* Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+=============
+never gonna give you up
+===================
+Option Selected: Do What It SaysMovie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+===================
+Option Selected: Do What It SaysMovie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+===================
+Option Selected: Do What It SaysMovie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+=======================
+Option Selected: Do What It Says
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+=======================
+Option Selected: Do What It Says
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+=======================
+Option Selected: Do What It Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: Do What It Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+===================
+Movie Result Info:
+* Title: Twins
+* Year Released: 09 Dec 1988
+* IMDB Rating: 6.1
+* Rotten Tomatoes Score: 41% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Arnold Schwarzenegger, Danny DeVito, Kelly Preston
+* Plot: A physically perfect but innocent man goes in search of his long-lost twin brother, who is short, a womanizer, and small-time crook.
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Transformers
+* Year Released: 03 Jul 2007
+* IMDB Rating: 7.0
+* Rotten Tomatoes Score: 58% Fresh
+* Country Produced: United States
+* Language: English, Spanish
+* Actors: Shia LaBeouf, Megan Fox, Josh Duhamel
+* Plot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+
+=============
+never gonna give you up
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+1 log Tweets! tweeet tweeettw eeet!`
+================
+1 log Tweets! tweeet tweeettw eeet!`
+================
+Option Selected: * Spotify-This-Song
+Log Tweets! tweeet tweeettw eeet!
+====================================
+nOption Selected: * Spotify-This-Song
+never gonna give you up
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Old School
+* Year Released: 21 Feb 2003
+* IMDB Rating: 7.0
+* Rotten Tomatoes Score: 60% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Luke Wilson, Vince Vaughn, Will Ferrell
+* Plot: Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.
+
+====================================
+nOption Selected: * Spotify-This-Song
+====================================
+nOption Selected: * Spotify-This-Song
+====================================
+nOption Selected: * Spotify-This-Song
+happy birthday
+====================================
+nOption Selected: * Spotify-This-Song
+my way`
+================================
+Option Selected: * Spotify-This-Song
+Log Tweets! tweeet tweeettw eeet!
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Titanic
+* Year Released: 19 Dec 1997
+* IMDB Rating: 7.9
+* Rotten Tomatoes Score: 87% Fresh
+* Country Produced: United States, Mexico
+* Language: English, Swedish, Italian, French
+* Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane
+* Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+====================================
+nOption Selected: * Spotify-This-Song
+====================================
+nOption Selected: * Spotify-This-Song
+"I Want it That Way"
+`
+================================
+Option Selected: * Spotify-This-Song
+Log Tweets! tweeet tweeettw eeet!
+====================================
+nOption Selected: * Do-What-It-Says
+"I Want it That Way"
+
+====================================
+nOption Selected: * Spotify-This-Song
+happy birthday
+====================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+
+* Song Title: All The Small Things
+
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+
+* Album: Enema Of The State
+
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+
+* Song Title: All The Small Things
+
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+
+* Album: Enema Of The State
+
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): blink-182
+* Song Title: All The Small Things
+* Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+* Album: Enema Of The State
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+nOption Selected: * Do-What-It-Says
+"I Want it That Way"
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Drake
+* Song Title: God's Plan
+* Preview Link: https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn
+* Album: Scorpion
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+`
+================================
+Option Selected: * Spotify-This-Song
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: * my-tweets
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: * my-tweets
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: * my-tweets
+Log Tweets! tweeet tweeettw eeet!Movie not found!Ooops!...Movie not found!Ooops!...Movie not found!
+===============
+Ooops!...Movie not found!
+
+===============
+Option Selected: * Movie-This
+
+Ooops!...Movie not found!
+
+================================
+Option Selected: * my-tweets
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Titanic
+* Year Released: 19 Dec 1997
+* IMDB Rating: 7.9
+* Rotten Tomatoes Score: 87% Fresh
+* Country Produced: United States, Mexico
+* Language: English, Swedish, Italian, French
+* Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane
+* Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+================================
+Option Selected: undefined
+Log Tweets! tweeet tweeettw eeet!
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Twins
+* Year Released: 09 Dec 1988
+* IMDB Rating: 6.1
+* Rotten Tomatoes Score: 43% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Arnold Schwarzenegger, Danny DeVito, Kelly Preston
+* Plot: A physically perfect but innocent man goes in search of his long-lost twin brother, who is short, a womanizer, and small-time crook.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Sir Mix-A-Lot
+* Song Title: Baby Got Back
+* Preview Link: https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl
+* Album: Mack Daddy
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+===============
+Option Selected: * Movie-This
+
+Ooops!...Movie not found!
+
+===============
+Option Selected: * Movie-This
+
+Ooops!...Movie not found!
+
+===============
+Option Selected: * Movie-This
+
+Ooops!...Movie not found!
+
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Elvis Presley
+* Song Title: Mystery Train
+* Preview Link: https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI
+* Album: For LP Fans Only
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): carpetgarden
+* Song Title: Heartbreak Hotel
+* Preview Link: https://open.spotify.com/track/61yhjvvApv2dL74ji5RJKZ
+* Album: Nightmare on Weed Street
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Elvis Presley
+* Song Title: Love Me Tender
+* Preview Link: https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E
+* Album: Elvis 30 #1 Hits
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): J2
+* Song Title: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]
+* Preview Link: https://open.spotify.com/track/1yvAqwZBc9fu2Z4RXtDlcu
+* Album: The Iconic Series, Vol. 5
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): J2
+* Song Title: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]
+* Preview Link: https://open.spotify.com/track/1yvAqwZBc9fu2Z4RXtDlcu
+* Album: The Iconic Series, Vol. 5
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Darude
+* Song Title: Sandstorm
+* Preview Link: https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5
+* Album: Before the Storm, Special Edition
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Harry Styles
+* Song Title: As It Was
+* Preview Link: https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7
+* Album: As It Was
+
+===============
+Option Selected: * Movie-This
+
+Ooops!...Movie not found!
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Glass Animals
+* Song Title: Heat Waves
+* Preview Link: https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp
+* Album: Dreamland
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Morgan Wallen
+* Song Title: Wasted On You
+* Preview Link: https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3
+* Album: Dangerous: The Double Album
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Caspar Babypants
+* Song Title: Shortnin Bread
+* Preview Link: https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u
+* Album: Here I Am!
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Gloria Gaynor
+* Song Title: I Will Survive - Single Version
+* Preview Link: https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX
+* Album: 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor
+
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Rocky
+* Year Released: 03 Dec 1976
+* IMDB Rating: 8.1
 * Rotten Tomatoes Score: 91% Fresh
 * Country Produced: United States
 * Language: English
-* Actors: Tim Robbins, Morgan Freeman, Bob Gunton
-* Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+* Actors: Sylvester Stallone, Talia Shire, Burt Young
+* Plot: A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.
 
-===================
+==========================================
+Option Selected: * Spotify-This-Song
+
+* Artist(s): Troye Sivan
+* Song Title: Angel Baby
+* Preview Link: https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc
+* Album: Angel Baby
+
+====================================
+Option Selected: * Movie-This
+ 
 Movie Result Info:
-* Title: The Godfather
-* Year Released: 24 Mar 1972
-* IMDB Rating: 9.2
-* Rotten Tomatoes Score: 97% Fresh
+* Title: Jaws
+* Year Released: 20 Jun 1975
+* IMDB Rating: 8.1
+* Rotten Tomatoes Score: 98% Fresh
 * Country Produced: United States
-* Language: English, Italian, Latin
-* Actors: Marlon Brando, Al Pacino, James Caan
-* Plot: The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.
-
-===================
-Movie Result Info:
-* Title: Gladiator
-* Year Released: 05 May 2000
-* IMDB Rating: 8.5
-* Rotten Tomatoes Score: 78% Fresh
-* Country Produced: United States, United Kingdom, Malta, Morocco
 * Language: English
-* Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen
-* Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+* Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss
+* Plot: When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Jaws
+* Year Released: 20 Jun 1975
+* IMDB Rating: 8.1
+* Rotten Tomatoes Score: 98% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss
+* Plot: When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+===============
+Option Selected: * Movie-This
+
+Ooops!...Movie not found!
+
+====================================
+Option Selected: * Movie-This
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Darude
+* Song Title: Sandstorm
+* Preview Link: https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5
+* Album: Before the Storm, Special Edition
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Jaws
+* Year Released: 20 Jun 1975
+* IMDB Rating: 8.1
+* Rotten Tomatoes Score: 98% Fresh
+* Country Produced: United States
+* Language: English
+* Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss
+* Plot: When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Scarface
+* Year Released: 09 Dec 1983
+* IMDB Rating: 8.3
+* Rotten Tomatoes Score: 81% Fresh
+* Country Produced: United States
+* Language: English, Spanish
+* Actors: Al Pacino, Michelle Pfeiffer, Steven Bauer
+* Plot: In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Michael Jackson
+* Song Title: Thriller
+* Preview Link: https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0
+* Album: Thriller 25 Super Deluxe Edition
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Backstreet Boys
+* Song Title: I Want It That Way
+* Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+* Album: Millennium
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Titanic
+* Year Released: 19 Dec 1997
+* IMDB Rating: 7.9
+* Rotten Tomatoes Score: 87% Fresh
+* Country Produced: United States, Mexico
+* Language: English, Swedish, Italian, French
+* Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane
+* Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Future
+* Song Title: WAIT FOR U (feat. Drake & Tems)
+* Preview Link: https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK
+* Album: I NEVER LIKED YOU
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Glass Animals
+* Song Title: Heat Waves
+* Preview Link: https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp
+* Album: Dreamland
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Post Malone
+* Song Title: I Like You (A Happier Song) (with Doja Cat)
+* Preview Link: https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj
+* Album: Twelve Carat Toothache
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Morgan Wallen
+* Song Title: Wasted On You
+* Preview Link: https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3
+* Album: Dangerous: The Double Album
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Fight Club
+* Year Released: 15 Oct 1999
+* IMDB Rating: 8.8
+* Rotten Tomatoes Score: 79% Fresh
+* Country Produced: United States, Germany
+* Language: English
+* Actors: Brad Pitt, Edward Norton, Meat Loaf
+* Plot: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
+
+====================================
+Option Selected: * Do-What-It-Says
+ 
+Movie Result Info:
+* Title: Batman
+* Year Released: 23 Jun 1989
+* IMDB Rating: 7.5
+* Rotten Tomatoes Score: 72% Fresh
+* Country Produced: United States, United Kingdom
+* Language: English, French, Spanish
+* Actors: Michael Keaton, Jack Nicholson, Kim Basinger
+* Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+
+==========================================
+Option Selected: * Do-What-It-Says
+
+
+* Artist(s): Rick Astley
+* Song Title: Never Gonna Give You Up
+* Preview Link: https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT
+* Album: Whenever You Need Somebody
